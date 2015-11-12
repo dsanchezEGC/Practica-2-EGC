@@ -1,0 +1,71 @@
+[33mcommit 17bb21205cf83b7273763d3c34138daf8de803e9[m
+Author: Daniel Sánchez <dansanav@gmail.com>
+Date:   Thu Nov 12 09:31:25 2015 +0100
+
+    Modificacion de fichero_1.py
+
+[1mdiff --git a/fichero_1.py b/fichero_1.py[m
+[1mindex 5cbefcf..506c102 100644[m
+[1m--- a/fichero_1.py[m
+[1m+++ b/fichero_1.py[m
+[36m@@ -1,4 +1,7 @@[m
+ #encoding:utf-8[m
+ [m
+ if __name__ == "__main__":[m
+[31m-	print "Fichero 1"[m
+\ No newline at end of file[m
+[32m+[m[41m	[m
+[32m+[m	[32mdef hola_mundo():[m
+[32m+[m		[32mprint "hola mundo"[m
+[32m+[m	[32mhola_mundo()[m
+\ No newline at end of file[m
+
+[33mcommit 823ebbbff985e97018b8e8473db3b05e47b80e42[m
+Author: roncola <roncola@dios.es>
+Date:   Thu Nov 12 09:02:23 2015 +0100
+
+    Este es mi primer commit!!!!
+
+[1mdiff --git a/danmarrod.txt b/danmarrod.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..006cf39[m
+[1m--- /dev/null[m
+[1m+++ b/danmarrod.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mILLOOOOO[m
+\ No newline at end of file[m
+
+[33mcommit e9d991825d2f38f98cc5d9e3e84889d92f76012b[m
+Author: Daniel Sánchez <dansanav@gmail.com>
+Date:   Thu Nov 12 09:03:14 2015 +0100
+
+    Añado fichero 1
+    
+    comanterio del commit
+
+[1mdiff --git a/fichero_1.py b/fichero_1.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5cbefcf[m
+[1m--- /dev/null[m
+[1m+++ b/fichero_1.py[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32m#encoding:utf-8[m
+[32m+[m
+[32m+[m[32mif __name__ == "__main__":[m
+[32m+[m	[32mprint "Fichero 1"[m
+\ No newline at end of file[m
+
+[33mcommit 5e1a3e9e494bd343c72c5309f0bdd281873098bf[m
+Author: dsanchezEGC <correoparapolleces@yahoo.es>
+Date:   Thu Nov 12 08:51:23 2015 +0100
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..54f9f11[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# Practica-2-EGC[m
+[32m+[m[32mpractica 2 de EGC[m
