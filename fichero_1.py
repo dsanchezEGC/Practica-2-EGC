@@ -1,4 +1,7 @@
 #encoding:utf-8
 
 if __name__ == "__main__":
-	print "Fichero 1"
+	
+	def hola_mundo():
+		print "hola mundo"
+	hola_mundo()
